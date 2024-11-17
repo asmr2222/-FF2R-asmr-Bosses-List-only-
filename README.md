@@ -1,18 +1,23 @@
 # -FF2R-asmr-Bosses
 
-Bosses List(Added on Foolish Server)
+# Bosses List(Added on Foolish Server)
 
-Ho Seong Lee(Died Bat Murderer From South Korea)
-Horseking(A Korean Youtuber)
-The korean pablo(TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
-Nightmare Medic(TF2 Freak)
-Beemo the Beepman(Adventure Time, TF2 Freak)
-Handsome Rogue(TF2 Freak)
+# Ho Seong Lee(Died Bat Murderer From South Korea)
 
-Credits 
+# Horseking(A Korean Youtuber)
 
-Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
+# The korean pablo(TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
 
-Ported lots of Plugins by Yuumi-Peusah
+# Nightmare Medic(TF2 Freak)
 
-Added The Bosses by Foolish(Server's Owner)
+# Beemo the Beepman(Adventure Time, TF2 Freak)
+
+# Handsome Rogue(TF2 Freak)
+
+# Credits 
+
+# Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
+
+# Ported lots of Plugins by Yuumi-Peusah
+
+# Added The Bosses by Foolish(Server's Owner)
