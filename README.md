@@ -2,22 +2,20 @@
 
 ## Bosses List(Added on Foolish Server) ##
 
-### Ho Seong Lee(Died Bat Murderer From South Korea) ###
+### Ho Seong Lee(Died Bat Murderer From South Korea) 
+ Horseking(A Korean Youtuber) 
+ The korean pablo(TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
 
-### Horseking(A Korean Youtuber) ###
+ Nightmare Medic(TF2 Freak)
 
-### The korean pablo(TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
+ Beemo the Beepman(Adventure Time, TF2 Freak)
 
-# Nightmare Medic(TF2 Freak)
+ Handsome Rogue(TF2 Freak)
 
-# Beemo the Beepman(Adventure Time, TF2 Freak)
+## Credits 
 
-# Handsome Rogue(TF2 Freak)
+### Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
 
-# Credits 
+ Ported lots of Plugins by Yuumi-Peusah
 
-# Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
-
-# Ported lots of Plugins by Yuumi-Peusah
-
-# Added The Bosses by Foolish(Server's Owner)
+ Added The Bosses by Foolish(Server's Owner)
