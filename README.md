@@ -23,4 +23,4 @@ Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
 
 Ported lots of Plugins by Yuumi-Peusah
 
-Added The Bosses by Foolish, Monera(Server's Owner)
+Added The Bosses by Foolish, Monera(Server's Owners)
