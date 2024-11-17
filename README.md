@@ -1,4 +1,4 @@
-# -FF2R-asmr-Bosses #
+# [FF2R]asmr Bosses (List only) #
 
 ## Bosses List(Added on Foolish Server) ##
 
