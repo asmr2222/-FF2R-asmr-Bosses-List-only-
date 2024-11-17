@@ -1,6 +1,6 @@
-# [FF2R]asmr Bosses (List only) #
+# [FF2R]asmr Bosses #
 
-## Bosses List(Added on Foolish Server) ##
+## Bosses List(Current Added on Foolish Server) ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
 (First Ported by M60TM)
