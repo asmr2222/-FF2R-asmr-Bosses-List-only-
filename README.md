@@ -14,7 +14,7 @@
 
 ## Credits 
 
-### Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
+ Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
 
  Ported lots of Plugins by Yuumi-Peusah
 
