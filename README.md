@@ -13,9 +13,7 @@ Nightmare Medic(TF2 Freak)
 
 Beemo the Beepman(Adventure Time, TF2 Freak)
 
-## Disabled ##
-
-Handsome Rogue(TF2 Freak) 
+Handsome Rogue(TF2 Freak)  
 
 ## Credits 
 
