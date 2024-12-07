@@ -15,7 +15,9 @@ Beemo the Beepman(Adventure Time, TF2 Freak)
 
 Handsome Rogue(TF2 Freak)  
 
-MissingTeam. 
+MissingTeam. [MY ORIGINAL BOSS]
+
+Donald Trump (President Of U.S.A)
 
 ## Credits 
 
