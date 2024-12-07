@@ -17,7 +17,7 @@ Handsome Rogue(TF2 Freak)
 
 MissingTeam. (TF2 Freak)
 
-Donald Trump (President Of U.S.A)
+Donald Trump (President of U.S.A)
 
 ## Credits 
 
