@@ -7,7 +7,7 @@ Ho Seong Lee(Died Bat Murderer From South Korea)
 
 Horseking(A Korean Youtuber) 
 
-The korean pablo(TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
+The korean pablo.gaming_2014 (TF2 meme, Original : pablo.gaming_2014 / has Accepted by Own Boss Maker.)
 
 Nightmare Medic(TF2 Freak)
 
