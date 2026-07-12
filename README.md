@@ -1,6 +1,10 @@
 # [FF2R]asmr Bosses #
 
-## Bosses List(Before Added on Foolish's Server) ##
+## Bosses List(Reworking on 2026) ##
+
+Handsome Rogue(TF2 Freak)
+
+## Removed Bosses List ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
 (First Ported by M60TM)
@@ -18,10 +22,6 @@ Handsome Rogue(TF2 Freak)
 MissingTeam. (Original TF2 Freak)
 
 Donald Trump (President of U.S.A)
-
-## Bosses List(Reworking on 2026) ##
-
-Handsome Rogue(TF2 Freak)
 
 ## Credits 
 
