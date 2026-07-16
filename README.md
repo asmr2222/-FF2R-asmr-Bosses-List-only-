@@ -4,6 +4,8 @@
 
 Handsome Rogue(TF2 Freak)
 
+MissingTeam. (Original TF2 Freak)
+
 ## Removed Bosses List(Added in Foolish Server) ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
@@ -18,8 +20,6 @@ Nightmare Medic(TF2 Freak)
 Beemo the Beepman(Adventure Time, TF2 Freak)
 
 Handsome Rogue(TF2 Freak)  
-
-MissingTeam. (Original TF2 Freak)
 
 Donald Trump (President of U.S.A)
 
