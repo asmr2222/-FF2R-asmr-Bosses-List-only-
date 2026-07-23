@@ -6,7 +6,7 @@ Handsome Rogue(TF2 Freak)
 
 MissingTeam. (DIY / TF2 Freak)
 
-## Removed Bosses List(Added in Foolish Server) ##
+## Removed Bosses List ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
 (First Ported by M60TM)
