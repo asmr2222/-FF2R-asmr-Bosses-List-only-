@@ -20,13 +20,3 @@ Nightmare Medic(TF2 Freak)
 Beemo the Beepman(Adventure Time, TF2 Freak)
 
 Donald Trump (President of U.S.A)
-
-## Credits 
-
-Ported Ho Seong Lee by M60TM
-
-Model,Materials by flavonothe2nd(Ho seong Lee, Horseking, Beemo)
-
-Ported lots of Plugins by Yuumi-Peusah
-
-Added The Bosses by Foolish, Monera(Server's Owners)
