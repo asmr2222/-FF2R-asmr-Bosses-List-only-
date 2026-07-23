@@ -1,12 +1,12 @@
 # [FF2R]asmr Bosses #
 
-## Bosses List(Reworking on 2026) ##
+## Boss List(Reworking on 2026) ##
 
 Handsome Rogue(TF2 Freak)
 
 MissingTeam. (DIY / TF2 Freak)
 
-## Removed Bosses List ##
+## Removed Boss List ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
 (First Ported by M60TM)
