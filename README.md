@@ -6,6 +6,8 @@ Handsome Rogue(TF2 Freak)
 
 MissingTeam. (DIY / TF2 Freak)
 
+Chulgu [A.K.A The Screaming Korean Guy] (Streamter / Youtuber)
+
 ## Removed Boss List ##
 
 Ho Seong Lee(Died Bat Murderer From South Korea) 
