@@ -6,7 +6,7 @@ Handsome Rogue(TF2 Freak)
 
 MissingTeam. (DIY / TF2 Freak)
 
-Chulgu [A.K.A The Screaming Korean Guy] (Streamter / Youtuber)
+Chulgu [A.K.A The Screaming Korean Guy] (Streamer / Youtuber)
 
 ## Removed Boss List ##
 
