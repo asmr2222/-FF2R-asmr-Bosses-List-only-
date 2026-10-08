@@ -2,7 +2,7 @@
 
 ## Boss List(Reworking on 2026) ##
 
-Handsome Rogue(TF2 Freak)
+Handsome Rogue[Redux](TF2 Freak)
 
 MissingTeam. (DIY / TF2 Freak)
 
